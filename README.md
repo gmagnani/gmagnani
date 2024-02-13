@@ -25,5 +25,5 @@ Skills:
 
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmagnani&layout=compact)
-![Snake animation](https://github.com/gmagnani/gmagnani/blob/output/github-contribution-grid-snake.svg)
+
 
