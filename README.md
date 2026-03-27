@@ -18,8 +18,8 @@ Sou um desenvolvedor apaixonado por arquitetura de software e soluções escalá
 
 * 🔭 Atualmente trabalhando com: **ArcGIS Experience Builder**, **React** e **Node.js**.
 * 🧠 Especialista em: **Clean Architecture**, **SOLID** e **TDD**.
-* [cite_start]⚡ Destaque Técnico: Desenvolvi um **Motor de Regras (Rule Engine)** customizado para diagnósticos clínicos complexos.
-* [cite_start]📸 Além do código: Sou entusiasta da fotografia e praticante de calistenia e trilhas[cite: 38, 39].
+* ⚡ Destaque Técnico: Desenvolvi um **Motor de Regras (Rule Engine)** customizado para diagnósticos clínicos complexos.
+* 📸 Além do código: Sou entusiasta da fotografia e praticante de calistenia e trilhas.
 
 ---
 
@@ -55,12 +55,12 @@ Sou um desenvolvedor apaixonado por arquitetura de software e soluções escalá
 
 #### 🏥 [ElderGuard](https://github.com/gmagnani/ElderGuard)
 Plataforma de saúde geriátrica com backend robusto em **NestJS**.
-* [cite_start]**Destaque:** Implementação de um Rule Engine para automação de diagnósticos.
+* **Destaque:** Implementação de um Rule Engine para automação de diagnósticos.
 * **Techs:** TypeScript, Prisma, PostgreSQL, Jest.
 
 #### 🛒 [BEWARWE](https://github.com/gmagnani/BEWARWE)
-[cite_start]E-commerce de alta performance desenvolvido com o que há de mais moderno no ecossistema Web[cite: 30].
-* [cite_start]**Destaque:** Checkout integrado com Stripe, Server Actions e React Query[cite: 30, 31].
+E-commerce de alta performance desenvolvido com o que há de mais moderno no ecossistema Web.
+* **Destaque:** Checkout integrado com Stripe, Server Actions e React Query.
 * **Techs:** Next.js (App Router), Tailwind CSS, Drizzle ORM.
 
 ---
