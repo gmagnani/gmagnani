@@ -1,29 +1,70 @@
-<h1 align="center">Hi, i'm Geovanni Magnani</h1>
-<p align="center">You can find me on</p>
-<p align="center"><a href = "mailto:magnanigeovanni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://linkedin.com/in/geovanni-magnani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/geovanni_magnani/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/5541987975897"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<h1 align="center">Olá, eu sou o Geovanni Magnani! 👋</h1>
 
+<p align="center">
+  <strong>Software Engineer | Full Stack [.NET & TypeScript] | Especialista em GIS</strong>
+</p>
 
-## 
-Skills:
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<p align="center">
+  <a href="https://linkedin.com/in/geovanni-magnani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:magnanigeovanni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/5541987975897"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 Sobre Mim
+
+Sou um desenvolvedor apaixonado por arquitetura de software e soluções escaláveis. Atualmente, curso ADS na **UFPR** e atuo como **Programador Júnior I**, onde foco no desenvolvimento de soluções geoespaciais críticas.
+
+* 🔭 Atualmente trabalhando com: **ArcGIS Experience Builder**, **React** e **Node.js**.
+* 🧠 Especialista em: **Clean Architecture**, **SOLID** e **TDD**.
+* [cite_start]⚡ Destaque Técnico: Desenvolvi um **Motor de Regras (Rule Engine)** customizado para diagnósticos clínicos complexos.
+* [cite_start]📸 Além do código: Sou entusiasta da fotografia e praticante de calistenia e trilhas[cite: 38, 39].
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Especialidades (Mastery)**
+<div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">  
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmagnani&layout=compact)
+#### **Geotecnologias (GIS)**
+<div>
+  <img src="https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white">
+  <img src="https://img.shields.io/badge/Experience_Builder-0079C1?style=for-the-badge&logo=arcgis&logoColor=white">
+  <img src="https://img.shields.io/badge/Maps_SDK-0079C1?style=for-the-badge&logo=javascript&logoColor=white">
+</div>
 
+#### **Interesses & Aprendizado**
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Integration-FF6F61?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
+---
+
+### 📂 Projetos em Destaque
+
+#### 🏥 [ElderGuard](https://github.com/gmagnani/ElderGuard)
+Plataforma de saúde geriátrica com backend robusto em **NestJS**.
+* [cite_start]**Destaque:** Implementação de um Rule Engine para automação de diagnósticos.
+* **Techs:** TypeScript, Prisma, PostgreSQL, Jest.
+
+#### 🛒 [BEWARWE](https://github.com/gmagnani/BEWARWE)
+[cite_start]E-commerce de alta performance desenvolvido com o que há de mais moderno no ecossistema Web[cite: 30].
+* [cite_start]**Destaque:** Checkout integrado com Stripe, Server Actions e React Query[cite: 30, 31].
+* **Techs:** Next.js (App Router), Tailwind CSS, Drizzle ORM.
+
+---
+
+### 📊 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmagnani&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api/stats/?username=gmagnani&show_icons=true&theme=dark)
