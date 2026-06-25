@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Geovanni Magnani! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack [.NET & TypeScript] </strong>
+  <strong>Desenvolvedor Full Stack [.NET & TypeScript]</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,9 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por arquitetura de software e soluções escaláveis. Atualmente, curso Análise e Desenvolvimento de Sistemas na **UFPR** e atuo como **Programador Júnior I**, onde foco no desenvolvimento de Widgets personalizados em React para aplicações ArcGis.
+Desenvolvedor Full Stack com experiência prática em **.NET**, **Node.js** e **React/Next.js**, atuando em projetos que vão de APIs robustas a interfaces escaláveis. Formado em Análise e Desenvolvimento de Sistemas na **UFPR**.
+
+Tenho passagem por arquitetura de microsserviços, Clean Architecture e princípios SOLID, sempre buscando código limpo, testável e de fácil manutenção.
 
 ### 🛠️ Tech Stack
 
@@ -28,27 +30,24 @@ Sou um desenvolvedor apaixonado por arquitetura de software e soluções escalá
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-
-#### **Interesses & Aprendizado**
-<div>
-  <img src="https://img.shields.io/badge/AI_Integration-FF6F61?style=for-the-badge&logo=openai&logoColor=white">
 </div>
 
 ---
 
 ### 📂 Projetos em Destaque
 
-#### 🏥 [ElderGuard](https://github.com/gmagnani/ElderGuard)
+#### 🏥 [ElderGuard](https://github.com/gmagnani/ElderGuard) — TCC
 Plataforma de saúde geriátrica com backend robusto em **NestJS**.
-* **Destaque:** Implementação de um Rule Engine para automação de diagnósticos.
-* **Techs:** TypeScript, Prisma, PostgreSQL, Jest.
+* **Destaque:** Motor de Regras (Rule Engine) customizado para automação de diagnósticos clínicos, com cálculos aritméticos, condicionais e rateio proporcional.
+* **Techs:** TypeScript, NestJS, Prisma, PostgreSQL, JWT, Jest.
 
-#### 🛒 [BEWARWE](https://github.com/gmagnani/BEWARWE)
-E-commerce de alta performance desenvolvido com o que há de mais moderno no ecossistema Web.
-* **Destaque:** Checkout integrado com Stripe, Server Actions e React Query.
-* **Techs:** Next.js (App Router), Tailwind CSS, Drizzle ORM.
+#### 🛒 [BEWARWE](https://github.com/gmagnani/BEWARWE) — E-commerce
+E-commerce full stack de alta performance, desenvolvido de ponta a ponta com o que há de mais moderno no ecossistema Web.
+* **Destaque:** Checkout completo integrado ao Stripe (com tratamento de Webhooks), gerenciamento de estado com React Query e Server Actions.
+* **Techs:** Next.js (App Router), TypeScript, Tailwind CSS, Drizzle ORM, Better Auth.
+
 
 ---
 
